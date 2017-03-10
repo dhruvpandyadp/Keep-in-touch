@@ -10,7 +10,7 @@ Step 3)  On the Developer Mode, If it is off!
 
 Step 4) Click on Load unpacked extension...
 
-Step 5) Select keep in tuuch folder and then click ok!
+Step 5) Select keep in touch folder and then click ok!
 
 Step 6) Done!
 
