@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  color:#ffffff;
+  width:300px; 
+  height:340px;
+  position: relative; 
+  margin:2;
+}
+img{
+	padding: 10px;
+}

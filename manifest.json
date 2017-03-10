@@ -1,0 +1,17 @@
+{
+    "name": "Keep in touch | Dhruv Pandya",
+	"version": "1",
+	 "permissions": [
+		  "activeTab"
+        ],
+    "description": "Keep in touch, Social Media URLs!", 
+	"icons": { "16" : "icon.png",
+ 			"48" : "48.png",
+			"128" : "128.png"},
+    "browser_action": {
+    "default_icon": "icon.png",
+        "default_title": "Dhruv Pandya", 
+        "default_popup": "popup.html"
+    }, 
+    "manifest_version": 2
+}
